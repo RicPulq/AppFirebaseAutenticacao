@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446977985193",
+    "project_id": "appfirebaseautenticacao",
+    "storage_bucket": "appfirebaseautenticacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446977985193:android:c7f95e2cdbc0a22d1af7b8",
+        "android_client_info": {
+          "package_name": "br.com.monkey.appfirebaseautenticacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBxuL3V5N1k954xFdiq1R1P5b7mxuCqIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
